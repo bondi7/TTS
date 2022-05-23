@@ -3,6 +3,7 @@ WadaSNR/
 *.pyc
 .DS_Store
 /recipes/mailabs/
+/recipes/tenek/
 *.wav
 ./__init__.py
 # Byte-compiled / optimized / DLL files
