@@ -2,6 +2,8 @@ WadaSNR/
 .idea/
 *.pyc
 .DS_Store
+/recipes/mailabs/
+*.wav
 ./__init__.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
